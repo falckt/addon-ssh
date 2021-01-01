@@ -1,9 +1,9 @@
 {
-  "name": "SSH & Web Terminal",
+  "name": "SSH & Web Terminal - Debian based",
   "version": "dev",
   "slug": "ssh",
-  "description": "SSH & Web Terminal access to your Home Assistant instance",
-  "url": "https://github.com/hassio-addons/addon-ssh",
+  "description": "SSH & Web Terminal access to your Home Assistant instance based on Debian",
+  "url": "https://github.com/falckt/addon-ssh",
   "advanced": true,
   "startup": "services",
   "ingress": true,
